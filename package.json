@@ -1,0 +1,15 @@
+{
+  "name": "mshahzadali-cli",
+  "version": "1.0.0",
+  "description": "Get to Know -> Muhammad Shahzad Ali by just running `npx mshahzadali`",
+  "bin": {
+    "mshahzadali": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shahzad6077",
+  "license": "ISC"
+}
